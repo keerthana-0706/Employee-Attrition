@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "task": "Confirm name placeholder strategy for file names/report",
+      "completed": false
+    },
+    {
+      "task": "Rebuild/extend notebook with full EDA + preprocessing + modeling + evaluation + interpretation + saved model",
+      "completed": false
+    },
+    {
+      "task": "Add Streamlit dashboard (src/ optional) and verify it runs",
+      "completed": false
+    },
+    {
+      "task": "Generate Word report from executed results into reports/YourName_Employee_Attrition_Report.docx",
+      "completed": false
+    },
+    {
+      "task": "Final verification: notebook runs end-to-end, model loads and predicts, requirements.txt complete, README correct",
+      "completed": false
+    }
+  ]
+}

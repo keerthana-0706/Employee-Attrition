@@ -1,2 +1,8 @@
-# Employee-Attrition
-An AI/ML-based employee attrition analysis system that explores HR data, identifies factors associated with employee turnover, predicts attrition risk, and visualizes insights through an interactive Streamlit dashboard to support data-driven workforce planning.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
